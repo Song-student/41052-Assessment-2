@@ -1,0 +1,328 @@
+########################################
+RANDOM WEIGHT - GRID SIZE EXPERIMENT
+########################################
+
+========================================
+Grid Size: 50 x 50
+========================================
+Obstacle Ratio: 20%
+Random Grids: 100
+Runs Per Grid: 10
+
+----------------------------------------
+Wmin: 1, Wmax: 1
+----------------------------------------
+V: 2000.000
+E: 3136.640
+W Mean: 1.000
+
+Dijkstra
+Execution Time: 0.179 ms
+Execution Time Std Dev: 0.096887 ms
+Processed Cells: 1096.570
+Edge Relaxations: 3474.580
+
+Dial's Algorithm
+Execution Time: 0.168 ms
+Execution Time Std Dev: 0.091120 ms
+Processed Cells: 1098.510
+Edge Relaxations: 3479.980
+Empty Buckets Scanned: 36.680
+
+Shortest Path Cost: 36.680
+Speed Ratio: 0.939x
+Speed Ratio Std Dev: 0.044867
+
+----------------------------------------
+Wmin: 1, Wmax: 100
+----------------------------------------
+V: 2000.000
+E: 3136.640
+W Mean: 50.543
+
+Dijkstra
+Execution Time: 0.190 ms
+Execution Time Std Dev: 0.102618 ms
+Processed Cells: 1106.660
+Edge Relaxations: 3514.250
+
+Dial's Algorithm
+Execution Time: 0.189 ms
+Execution Time Std Dev: 0.099922 ms
+Processed Cells: 1106.640
+Edge Relaxations: 3514.170
+Empty Buckets Scanned: 1430.240
+
+Shortest Path Cost: 1430.240
+Speed Ratio: 0.995x
+Speed Ratio Std Dev: 0.056966
+
+----------------------------------------
+Wmin: 1, Wmax: 1000
+----------------------------------------
+V: 2000.000
+E: 3136.640
+W Mean: 500.919
+
+Dijkstra
+Execution Time: 0.194 ms
+Execution Time Std Dev: 0.108092 ms
+Processed Cells: 1109.640
+Edge Relaxations: 3521.310
+
+Dial's Algorithm
+Execution Time: 0.237 ms
+Execution Time Std Dev: 0.126516 ms
+Processed Cells: 1109.650
+Edge Relaxations: 3521.370
+Empty Buckets Scanned: 14262.350
+
+Shortest Path Cost: 14262.350
+Speed Ratio: 1.223x
+Speed Ratio Std Dev: 0.118525
+
+========================================
+Grid Size: 100 x 100
+========================================
+Obstacle Ratio: 20%
+Random Grids: 100
+Runs Per Grid: 10
+
+----------------------------------------
+Wmin: 1, Wmax: 1
+----------------------------------------
+V: 8000.000
+E: 12669.870
+W Mean: 1.000
+
+Dijkstra
+Execution Time: 0.600 ms
+Execution Time Std Dev: 0.351613 ms
+Processed Cells: 4006.400
+Edge Relaxations: 12771.840
+
+Dial's Algorithm
+Execution Time: 0.549 ms
+Execution Time Std Dev: 0.320885 ms
+Processed Cells: 4008.920
+Edge Relaxations: 12779.770
+Empty Buckets Scanned: 70.150
+
+Shortest Path Cost: 70.150
+Speed Ratio: 0.915x
+Speed Ratio Std Dev: 0.023067
+
+----------------------------------------
+Wmin: 1, Wmax: 100
+----------------------------------------
+V: 8000.000
+E: 12669.870
+W Mean: 50.519
+
+Dijkstra
+Execution Time: 0.638 ms
+Execution Time Std Dev: 0.379462 ms
+Processed Cells: 3998.980
+Edge Relaxations: 12760.370
+
+Dial's Algorithm
+Execution Time: 0.596 ms
+Execution Time Std Dev: 0.343842 ms
+Processed Cells: 3998.850
+Edge Relaxations: 12760.070
+Empty Buckets Scanned: 2640.940
+
+Shortest Path Cost: 2640.940
+Speed Ratio: 0.934x
+Speed Ratio Std Dev: 0.049680
+
+----------------------------------------
+Wmin: 1, Wmax: 1000
+----------------------------------------
+V: 8000.000
+E: 12669.870
+W Mean: 500.645
+
+Dijkstra
+Execution Time: 0.648 ms
+Execution Time Std Dev: 0.385588 ms
+Processed Cells: 4004.820
+Edge Relaxations: 12781.570
+
+Dial's Algorithm
+Execution Time: 0.710 ms
+Execution Time Std Dev: 0.411012 ms
+Processed Cells: 4004.830
+Edge Relaxations: 12781.590
+Empty Buckets Scanned: 26169.310
+
+Shortest Path Cost: 26169.310
+Speed Ratio: 1.097x
+Speed Ratio Std Dev: 0.082817
+
+========================================
+Grid Size: 200 x 200
+========================================
+Obstacle Ratio: 20%
+Random Grids: 100
+Runs Per Grid: 10
+
+----------------------------------------
+Wmin: 1, Wmax: 1
+----------------------------------------
+V: 32000.000
+E: 50945.600
+W Mean: 1.000
+
+Dijkstra
+Execution Time: 2.388 ms
+Execution Time Std Dev: 1.501495 ms
+Processed Cells: 15231.400
+Edge Relaxations: 48688.450
+
+Dial's Algorithm
+Execution Time: 2.123 ms
+Execution Time Std Dev: 1.321512 ms
+Processed Cells: 15221.770
+Edge Relaxations: 48656.890
+Empty Buckets Scanned: 131.750
+
+Shortest Path Cost: 131.750
+Speed Ratio: 0.889x
+Speed Ratio Std Dev: 0.026721
+
+----------------------------------------
+Wmin: 1, Wmax: 100
+----------------------------------------
+V: 32000.000
+E: 50945.600
+W Mean: 50.506
+
+Dijkstra
+Execution Time: 2.577 ms
+Execution Time Std Dev: 1.635478 ms
+Processed Cells: 15298.570
+Edge Relaxations: 48937.930
+
+Dial's Algorithm
+Execution Time: 2.318 ms
+Execution Time Std Dev: 1.453915 ms
+Processed Cells: 15298.490
+Edge Relaxations: 48937.750
+Empty Buckets Scanned: 4864.960
+
+Shortest Path Cost: 4864.960
+Speed Ratio: 0.900x
+Speed Ratio Std Dev: 0.045643
+
+----------------------------------------
+Wmin: 1, Wmax: 1000
+----------------------------------------
+V: 32000.000
+E: 50945.600
+W Mean: 500.633
+
+Dijkstra
+Execution Time: 2.597 ms
+Execution Time Std Dev: 1.643589 ms
+Processed Cells: 15387.160
+Edge Relaxations: 49214.640
+
+Dial's Algorithm
+Execution Time: 2.600 ms
+Execution Time Std Dev: 1.591160 ms
+Processed Cells: 15387.200
+Edge Relaxations: 49214.780
+Empty Buckets Scanned: 48118.910
+
+Shortest Path Cost: 48118.910
+Speed Ratio: 1.001x
+Speed Ratio Std Dev: 0.089906
+
+========================================
+Grid Size: 400 x 400
+========================================
+Obstacle Ratio: 20%
+Random Grids: 100
+Runs Per Grid: 10
+
+----------------------------------------
+Wmin: 1, Wmax: 1
+----------------------------------------
+V: 128000.000
+E: 204283.140
+W Mean: 1.000
+
+Dijkstra
+Execution Time: 11.048 ms
+Execution Time Std Dev: 6.618528 ms
+Processed Cells: 62956.220
+Edge Relaxations: 201587.550
+
+Dial's Algorithm
+Execution Time: 9.603 ms
+Execution Time Std Dev: 5.696551 ms
+Processed Cells: 62959.300
+Edge Relaxations: 201594.160
+Empty Buckets Scanned: 263.970
+
+Shortest Path Cost: 263.970
+Speed Ratio: 0.869x
+Speed Ratio Std Dev: 0.022055
+
+----------------------------------------
+Wmin: 1, Wmax: 100
+----------------------------------------
+V: 128000.000
+E: 204283.140
+W Mean: 50.491
+
+Dijkstra
+Execution Time: 11.705 ms
+Execution Time Std Dev: 7.095487 ms
+Processed Cells: 62463.380
+Edge Relaxations: 200071.470
+
+Dial's Algorithm
+Execution Time: 10.398 ms
+Execution Time Std Dev: 6.302248 ms
+Processed Cells: 62462.520
+Edge Relaxations: 200068.780
+Empty Buckets Scanned: 9474.870
+
+Shortest Path Cost: 9474.870
+Speed Ratio: 0.888x
+Speed Ratio Std Dev: 0.026933
+
+----------------------------------------
+Wmin: 1, Wmax: 1000
+----------------------------------------
+V: 128000.000
+E: 204283.140
+W Mean: 500.615
+
+Dijkstra
+Execution Time: 11.849 ms
+Execution Time Std Dev: 7.113602 ms
+Processed Cells: 62496.550
+Edge Relaxations: 200181.910
+
+Dial's Algorithm
+Execution Time: 11.266 ms
+Execution Time Std Dev: 6.679242 ms
+Processed Cells: 62496.420
+Edge Relaxations: 200181.430
+Empty Buckets Scanned: 93612.480
+
+Shortest Path Cost: 93612.480
+Speed Ratio: 0.951x
+Speed Ratio Std Dev: 0.048430
+
+========================================
+RANDOM WEIGHT GRID SIZE EXPERIMENT - UNREACHABLE GRID SUMMARY
+========================================
+Grid Size 50: 0 rejected
+Grid Size 100: 1 rejected
+Grid Size 200: 0 rejected
+Grid Size 400: 0 rejected
+Total Unreachable Grids Rejected: 1

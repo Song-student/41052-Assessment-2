@@ -1,0 +1,2420 @@
+This includes all raw results, excluding Random Weight Sample results.
+
+########################################
+EXPERIMENT SET 1
+Baseline Wmin = 1, Wmax = 10
+########################################
+
+========================================
+Baseline
+========================================
+Grid Size: 100 x 100
+Obstacle Ratio: 20%
+Wmin: 1
+Wmax: 10
+V: 8000.000
+E: 12659.000
+Wmean: 5.493
+Wmedian: 5.300
+
+Dijkstra
+Execution Time: 0.618 ms
+Execution Time Std Dev: 0.372116 ms
+Processed Cells: 3240.200
+Edge Relaxations: 10350.900
+Cost: 235.400
+
+Dial's Algorithm
+Execution Time: 0.553 ms
+Execution Time Std Dev: 0.327952 ms
+Processed Cells: 3239.700
+Edge Relaxations: 10349.800
+Cost: 235.400
+Dijkstra Peak Memory: 1.675 KB
+Dial Peak Memory: 2.766 KB
+
+========================================
+Grid Size: 50 x 50
+========================================
+Grid Size: 50 x 50
+Obstacle Ratio: 20%
+Wmin: 1
+Wmax: 10
+V: 2000.000
+E: 3137.800
+Wmean: 5.468
+Wmedian: 5.200
+
+Dijkstra
+Execution Time: 0.132 ms
+Execution Time Std Dev: 0.077933 ms
+Processed Cells: 717.300
+Edge Relaxations: 2288.100
+Cost: 129.400
+
+Dial's Algorithm
+Execution Time: 0.126 ms
+Execution Time Std Dev: 0.071325 ms
+Processed Cells: 716.200
+Edge Relaxations: 2284.300
+Cost: 129.400
+Dijkstra Peak Memory: 0.879 KB
+Dial Peak Memory: 1.386 KB
+
+========================================
+Grid Size: 100 x 100
+========================================
+Grid Size: 100 x 100
+Obstacle Ratio: 20%
+Wmin: 1
+Wmax: 10
+V: 8000.000
+E: 12666.300
+Wmean: 5.496
+Wmedian: 5.550
+
+Dijkstra
+Execution Time: 0.504 ms
+Execution Time Std Dev: 0.415375 ms
+Processed Cells: 3031.800
+Edge Relaxations: 9671.100
+Cost: 215.800
+
+Dial's Algorithm
+Execution Time: 0.455 ms
+Execution Time Std Dev: 0.368010 ms
+Processed Cells: 3028.100
+Edge Relaxations: 9659.600
+Cost: 215.800
+Dijkstra Peak Memory: 1.861 KB
+Dial Peak Memory: 2.845 KB
+
+========================================
+Grid Size: 200 x 200
+========================================
+Grid Size: 200 x 200
+Obstacle Ratio: 20%
+Wmin: 1
+Wmax: 10
+V: 32000.000
+E: 50959.300
+Wmean: 5.510
+Wmedian: 5.700
+
+Dijkstra
+Execution Time: 2.596 ms
+Execution Time Std Dev: 1.835040 ms
+Processed Cells: 13730.000
+Edge Relaxations: 43926.900
+Cost: 451.100
+
+Dial's Algorithm
+Execution Time: 2.342 ms
+Execution Time Std Dev: 1.674351 ms
+Processed Cells: 13726.900
+Edge Relaxations: 43918.700
+Cost: 451.100
+Dijkstra Peak Memory: 3.993 KB
+Dial Peak Memory: 5.676 KB
+
+========================================
+Grid Size: 400 x 400
+========================================
+Grid Size: 400 x 400
+Obstacle Ratio: 20%
+Wmin: 1
+Wmax: 10
+V: 128000.000
+E: 204270.400
+Wmean: 5.503
+Wmedian: 5.500
+
+Dijkstra
+Execution Time: 13.725 ms
+Execution Time Std Dev: 7.819679 ms
+Processed Cells: 65905.300
+Edge Relaxations: 211130.500
+Cost: 1130.800
+
+Dial's Algorithm
+Execution Time: 12.356 ms
+Execution Time Std Dev: 7.006935 ms
+Processed Cells: 65901.500
+Edge Relaxations: 211118.500
+Cost: 1130.800
+Dijkstra Peak Memory: 7.452 KB
+Dial Peak Memory: 10.577 KB
+
+========================================
+Obstacle Ratio: 0%
+========================================
+Grid Size: 100 x 100
+Obstacle Ratio: 0%
+Wmin: 1
+Wmax: 10
+V: 10000.000
+E: 19800.000
+Wmean: 5.495
+Wmedian: 5.400
+
+Dijkstra
+Execution Time: 0.872 ms
+Execution Time Std Dev: 0.480739 ms
+Processed Cells: 5085.300
+Edge Relaxations: 20196.900
+Cost: 237.700
+
+Dial's Algorithm
+Execution Time: 0.781 ms
+Execution Time Std Dev: 0.429401 ms
+Processed Cells: 5079.500
+Edge Relaxations: 20173.800
+Cost: 237.700
+Dijkstra Peak Memory: 2.463 KB
+Dial Peak Memory: 4.073 KB
+
+========================================
+Obstacle Ratio: 10%
+========================================
+Grid Size: 100 x 100
+Obstacle Ratio: 10%
+Wmin: 1
+Wmax: 10
+V: 9000.000
+E: 16046.000
+Wmean: 5.498
+Wmedian: 5.600
+
+Dijkstra
+Execution Time: 0.793 ms
+Execution Time Std Dev: 0.439678 ms
+Processed Cells: 4600.200
+Edge Relaxations: 16484.500
+Cost: 261.200
+
+Dial's Algorithm
+Execution Time: 0.718 ms
+Execution Time Std Dev: 0.418406 ms
+Processed Cells: 4596.800
+Edge Relaxations: 16472.300
+Cost: 261.200
+Dijkstra Peak Memory: 2.340 KB
+Dial Peak Memory: 3.573 KB
+
+========================================
+Obstacle Ratio: 20%
+========================================
+Grid Size: 100 x 100
+Obstacle Ratio: 20%
+Wmin: 1
+Wmax: 10
+V: 8000.000
+E: 12679.400
+Wmean: 5.501
+Wmedian: 5.500
+
+Dijkstra
+Execution Time: 0.683 ms
+Execution Time Std Dev: 0.389122 ms
+Processed Cells: 4076.600
+Edge Relaxations: 13044.900
+Cost: 294.400
+
+Dial's Algorithm
+Execution Time: 0.613 ms
+Execution Time Std Dev: 0.334742 ms
+Processed Cells: 4071.800
+Edge Relaxations: 13030.100
+Cost: 294.400
+Dijkstra Peak Memory: 1.834 KB
+Dial Peak Memory: 2.926 KB
+
+========================================
+Obstacle Ratio: 30%
+========================================
+Grid Size: 100 x 100
+Obstacle Ratio: 30%
+Wmin: 1
+Wmax: 10
+V: 7000.000
+E: 9709.800
+Wmean: 5.499
+Wmedian: 5.500
+
+Dijkstra
+Execution Time: 0.537 ms
+Execution Time Std Dev: 0.339724 ms
+Processed Cells: 3437.800
+Edge Relaxations: 9739.000
+Cost: 355.400
+
+Dial's Algorithm
+Execution Time: 0.481 ms
+Execution Time Std Dev: 0.300176 ms
+Processed Cells: 3438.100
+Edge Relaxations: 9739.400
+Cost: 355.400
+Dijkstra Peak Memory: 1.472 KB
+Dial Peak Memory: 2.294 KB
+
+========================================
+Wmax: 10
+========================================
+Grid Size: 100 x 100
+Obstacle Ratio: 20%
+Wmin: 1
+Wmax: 10
+V: 8000.000
+E: 12661.000
+Wmean: 5.508
+Wmedian: 5.550
+
+Dijkstra
+Execution Time: 0.599 ms
+Execution Time Std Dev: 0.453167 ms
+Processed Cells: 3271.700
+Edge Relaxations: 10466.800
+Cost: 218.900
+
+Dial's Algorithm
+Execution Time: 0.540 ms
+Execution Time Std Dev: 0.399832 ms
+Processed Cells: 3267.600
+Edge Relaxations: 10455.400
+Cost: 218.900
+Dijkstra Peak Memory: 1.875 KB
+Dial Peak Memory: 2.980 KB
+
+========================================
+Wmax: 100
+========================================
+Grid Size: 100 x 100
+Obstacle Ratio: 20%
+Wmin: 1
+Wmax: 100
+V: 8000.000
+E: 12661.000
+Wmean: 50.510
+Wmedian: 50.700
+
+Dijkstra
+Execution Time: 0.608 ms
+Execution Time Std Dev: 0.410273 ms
+Processed Cells: 3336.600
+Edge Relaxations: 10676.100
+Cost: 1932.900
+
+Dial's Algorithm
+Execution Time: 0.552 ms
+Execution Time Std Dev: 0.361313 ms
+Processed Cells: 3337.200
+Edge Relaxations: 10677.800
+Cost: 1932.900
+Dijkstra Peak Memory: 2.302 KB
+Dial Peak Memory: 6.593 KB
+
+========================================
+Wmax: 1000
+========================================
+Grid Size: 100 x 100
+Obstacle Ratio: 20%
+Wmin: 1
+Wmax: 1000
+V: 8000.000
+E: 12661.000
+Wmean: 499.777
+Wmedian: 498.200
+
+Dijkstra
+Execution Time: 0.606 ms
+Execution Time Std Dev: 0.452465 ms
+Processed Cells: 3233.700
+Edge Relaxations: 10348.900
+Cost: 18753.600
+
+Dial's Algorithm
+Execution Time: 0.670 ms
+Execution Time Std Dev: 0.478794 ms
+Processed Cells: 3233.700
+Edge Relaxations: 10348.900
+Cost: 18753.600
+Dijkstra Peak Memory: 2.135 KB
+Dial Peak Memory: 32.111 KB
+
+========================================
+Wmax: 10000
+========================================
+Grid Size: 100 x 100
+Obstacle Ratio: 20%
+Wmin: 1
+Wmax: 10000
+V: 8000.000
+E: 12661.000
+Wmean: 4990.223
+Wmedian: 4976.600
+
+Dijkstra
+Execution Time: 0.544 ms
+Execution Time Std Dev: 0.422811 ms
+Processed Cells: 3245.300
+Edge Relaxations: 10378.500
+Cost: 190246.300
+
+Dial's Algorithm
+Execution Time: 0.978 ms
+Execution Time Std Dev: 0.634463 ms
+Processed Cells: 3245.300
+Edge Relaxations: 10378.500
+Cost: 190246.300
+Dijkstra Peak Memory: 2.138 KB
+Dial Peak Memory: 255.401 KB
+
+========================================
+Wmin: 1, Wmax: 1000
+========================================
+Grid Size: 100 x 100
+Obstacle Ratio: 20%
+Wmin: 1
+Wmax: 1000
+V: 8000.000
+E: 12673.700
+Wmean: 498.828
+Wmedian: 497.800
+
+Dijkstra
+Execution Time: 0.892 ms
+Execution Time Std Dev: 0.524753 ms
+Processed Cells: 4879.500
+Edge Relaxations: 15573.900
+Cost: 29479.900
+
+Dial's Algorithm
+Execution Time: 0.981 ms
+Execution Time Std Dev: 0.566475 ms
+Processed Cells: 4879.300
+Edge Relaxations: 15573.400
+Cost: 29479.900
+Dijkstra Peak Memory: 2.212 KB
+Dial Peak Memory: 33.647 KB
+
+========================================
+Wmin: 250, Wmax: 1000
+========================================
+Grid Size: 100 x 100
+Obstacle Ratio: 20%
+Wmin: 250
+Wmax: 1000
+V: 8000.000
+E: 12673.700
+Wmean: 623.802
+Wmedian: 623.750
+
+Dijkstra
+Execution Time: 0.765 ms
+Execution Time Std Dev: 0.420514 ms
+Processed Cells: 4840.200
+Edge Relaxations: 15445.700
+Cost: 43122.000
+
+Dial's Algorithm
+Execution Time: 0.905 ms
+Execution Time Std Dev: 0.490480 ms
+Processed Cells: 4840.200
+Edge Relaxations: 15445.700
+Cost: 43122.000
+Dijkstra Peak Memory: 1.706 KB
+Dial Peak Memory: 32.965 KB
+
+========================================
+Wmin: 500, Wmax: 1000
+========================================
+Grid Size: 100 x 100
+Obstacle Ratio: 20%
+Wmin: 500
+Wmax: 1000
+V: 8000.000
+E: 12673.700
+Wmean: 750.787
+Wmedian: 751.200
+
+Dijkstra
+Execution Time: 0.739 ms
+Execution Time Std Dev: 0.408708 ms
+Processed Cells: 4829.500
+Edge Relaxations: 15404.800
+Cost: 56190.000
+
+Dial's Algorithm
+Execution Time: 0.882 ms
+Execution Time Std Dev: 0.466879 ms
+Processed Cells: 4829.500
+Edge Relaxations: 15404.800
+Cost: 56190.000
+Dijkstra Peak Memory: 1.706 KB
+Dial Peak Memory: 32.516 KB
+
+========================================
+Wmin: 1000, Wmax: 1000
+========================================
+Grid Size: 100 x 100
+Obstacle Ratio: 20%
+Wmin: 1000
+Wmax: 1000
+V: 8000.000
+E: 12673.700
+Wmean: 1000.000
+Wmedian: 1000.000
+
+Dijkstra
+Execution Time: 0.735 ms
+Execution Time Std Dev: 0.424143 ms
+Processed Cells: 4763.100
+Edge Relaxations: 15187.400
+Cost: 81700.000
+
+Dial's Algorithm
+Execution Time: 0.865 ms
+Execution Time Std Dev: 0.489312 ms
+Processed Cells: 4775.800
+Edge Relaxations: 15228.000
+Cost: 81700.000
+Dijkstra Peak Memory: 1.761 KB
+Dial Peak Memory: 68.813 KB
+
+========================================
+Fixed Weight: 1
+========================================
+Grid Size: 100 x 100
+Obstacle Ratio: 20%
+Wmin: 1
+Wmax: 1
+V: 8000.000
+E: 12686.400
+Wmean: 1.000
+Wmedian: 1.000
+
+Dijkstra
+Execution Time: 0.514 ms
+Execution Time Std Dev: 0.354598 ms
+Processed Cells: 3372.100
+Edge Relaxations: 10761.300
+Cost: 62.100
+
+Dial's Algorithm
+Execution Time: 0.466 ms
+Execution Time Std Dev: 0.320257 ms
+Processed Cells: 3351.600
+Edge Relaxations: 10694.000
+Cost: 62.100
+Dijkstra Peak Memory: 1.417 KB
+Dial Peak Memory: 1.655 KB
+
+========================================
+Fixed Weight: 10
+========================================
+Grid Size: 100 x 100
+Obstacle Ratio: 20%
+Wmin: 10
+Wmax: 10
+V: 8000.000
+E: 12686.400
+Wmean: 10.000
+Wmedian: 10.000
+
+Dijkstra
+Execution Time: 0.509 ms
+Execution Time Std Dev: 0.356009 ms
+Processed Cells: 3372.100
+Edge Relaxations: 10761.300
+Cost: 621.000
+
+Dial's Algorithm
+Execution Time: 0.466 ms
+Execution Time Std Dev: 0.320604 ms
+Processed Cells: 3351.600
+Edge Relaxations: 10694.000
+Cost: 621.000
+Dijkstra Peak Memory: 1.417 KB
+Dial Peak Memory: 8.077 KB
+
+========================================
+Fixed Weight: 100
+========================================
+Grid Size: 100 x 100
+Obstacle Ratio: 20%
+Wmin: 100
+Wmax: 100
+V: 8000.000
+E: 12686.400
+Wmean: 100.000
+Wmedian: 100.000
+
+Dijkstra
+Execution Time: 0.515 ms
+Execution Time Std Dev: 0.363716 ms
+Processed Cells: 3372.100
+Edge Relaxations: 10761.300
+Cost: 6210.000
+
+Dial's Algorithm
+Execution Time: 0.521 ms
+Execution Time Std Dev: 0.362889 ms
+Processed Cells: 3351.600
+Edge Relaxations: 10694.000
+Cost: 6210.000
+Dijkstra Peak Memory: 1.417 KB
+Dial Peak Memory: 34.222 KB
+
+========================================
+Fixed Weight: 1000
+========================================
+Grid Size: 100 x 100
+Obstacle Ratio: 20%
+Wmin: 1000
+Wmax: 1000
+V: 8000.000
+E: 12686.400
+Wmean: 1000.000
+Wmedian: 1000.000
+
+Dijkstra
+Execution Time: 0.591 ms
+Execution Time Std Dev: 0.463942 ms
+Processed Cells: 3372.100
+Edge Relaxations: 10761.300
+Cost: 62100.000
+
+Dial's Algorithm
+Execution Time: 0.683 ms
+Execution Time Std Dev: 0.499701 ms
+Processed Cells: 3351.600
+Edge Relaxations: 10694.000
+Cost: 62100.000
+Dijkstra Peak Memory: 1.417 KB
+Dial Peak Memory: 55.686 KB
+
+========================================
+Fixed Weight: 10000
+========================================
+Grid Size: 100 x 100
+Obstacle Ratio: 20%
+Wmin: 10000
+Wmax: 10000
+V: 8000.000
+E: 12686.400
+Wmean: 10000.000
+Wmedian: 10000.000
+
+Dijkstra
+Execution Time: 0.513 ms
+Execution Time Std Dev: 0.366369 ms
+Processed Cells: 3372.100
+Edge Relaxations: 10761.300
+Cost: 621000.000
+
+Dial's Algorithm
+Execution Time: 1.389 ms
+Execution Time Std Dev: 0.806539 ms
+Processed Cells: 3351.600
+Edge Relaxations: 10694.000
+Cost: 621000.000
+Dijkstra Peak Memory: 1.417 KB
+Dial Peak Memory: 266.623 KB
+
+========================================
+Unweighted: 50 x 50
+========================================
+Grid Size: 50 x 50
+Obstacle Ratio: 20%
+Wmin: 1
+Wmax: 1
+V: 2000.000
+E: 3130.500
+Wmean: 1.000
+Wmedian: 1.000
+
+Dijkstra
+Execution Time: 0.121 ms
+Execution Time Std Dev: 0.083136 ms
+Processed Cells: 790.400
+Edge Relaxations: 2509.200
+Cost: 30.200
+
+Dial's Algorithm
+Execution Time: 0.114 ms
+Execution Time Std Dev: 0.075106 ms
+Processed Cells: 790.700
+Edge Relaxations: 2510.200
+Cost: 30.200
+Dijkstra Peak Memory: 0.626 KB
+Dial Peak Memory: 0.778 KB
+
+========================================
+Unweighted: 100 x 100
+========================================
+Grid Size: 100 x 100
+Obstacle Ratio: 20%
+Wmin: 1
+Wmax: 1
+V: 8000.000
+E: 12683.400
+Wmean: 1.000
+Wmedian: 1.000
+
+Dijkstra
+Execution Time: 0.827 ms
+Execution Time Std Dev: 0.206209 ms
+Processed Cells: 5594.000
+Edge Relaxations: 17833.100
+Cost: 93.800
+
+Dial's Algorithm
+Execution Time: 0.754 ms
+Execution Time Std Dev: 0.188171 ms
+Processed Cells: 5585.600
+Edge Relaxations: 17805.500
+Cost: 93.800
+Dijkstra Peak Memory: 1.679 KB
+Dial Peak Memory: 2.102 KB
+
+========================================
+Unweighted: 200 x 200
+========================================
+Grid Size: 200 x 200
+Obstacle Ratio: 20%
+Wmin: 1
+Wmax: 1
+V: 32000.000
+E: 50926.800
+Wmean: 1.000
+Wmedian: 1.000
+
+Dijkstra
+Execution Time: 1.956 ms
+Execution Time Std Dev: 1.552204 ms
+Processed Cells: 11976.800
+Edge Relaxations: 38358.900
+Cost: 111.200
+
+Dial's Algorithm
+Execution Time: 1.763 ms
+Execution Time Std Dev: 1.408280 ms
+Processed Cells: 11960.200
+Edge Relaxations: 38305.800
+Cost: 111.200
+Dijkstra Peak Memory: 2.869 KB
+Dial Peak Memory: 2.997 KB
+
+========================================
+Unweighted: 400 x 400
+========================================
+Grid Size: 400 x 400
+Obstacle Ratio: 20%
+Wmin: 1
+Wmax: 1
+V: 128000.000
+E: 204322.100
+Wmean: 1.000
+Wmedian: 1.000
+
+Dijkstra
+Execution Time: 10.499 ms
+Execution Time Std Dev: 8.107498 ms
+Processed Cells: 50426.900
+Edge Relaxations: 161366.200
+Cost: 225.900
+
+Dial's Algorithm
+Execution Time: 9.011 ms
+Execution Time Std Dev: 6.896170 ms
+Processed Cells: 50418.900
+Edge Relaxations: 161339.100
+Cost: 225.900
+Dijkstra Peak Memory: 4.723 KB
+Dial Peak Memory: 5.727 KB
+
+========================================
+EXPERIMENT SET 1 - UNREACHABLE GRID SUMMARY
+========================================
+Baseline: 0 rejected
+Grid Size: 50 x 50: 0 rejected
+Grid Size: 100 x 100: 0 rejected
+Grid Size: 200 x 200: 0 rejected
+Grid Size: 400 x 400: 1 rejected
+Obstacle Ratio (paired layouts, checked at 30%): 0 rejected
+Shared base grids for Wmax: 10 ...: 0 rejected
+Shared base grids for Wmin: 1, Wmax: 1000 ...: 0 rejected
+Shared base grids for Fixed Weight: 1 ...: 0 rejected
+Unweighted: 50 x 50: 0 rejected
+Unweighted: 100 x 100: 0 rejected
+Unweighted: 200 x 200: 0 rejected
+Unweighted: 400 x 400: 0 rejected
+Total Unreachable Grids Rejected: 1
+
+
+########################################
+EXPERIMENT SET 2
+Baseline Wmin = 1, Wmax = 100
+########################################
+
+========================================
+Baseline
+========================================
+Grid Size: 100 x 100
+Obstacle Ratio: 20%
+Wmin: 1
+Wmax: 100
+V: 8000.000
+E: 12674.300
+Wmean: 50.523
+Wmedian: 50.800
+
+Dijkstra
+Execution Time: 0.635 ms
+Execution Time Std Dev: 0.410547 ms
+Processed Cells: 3904.600
+Edge Relaxations: 12472.300
+Cost: 2677.200
+
+Dial's Algorithm
+Execution Time: 0.597 ms
+Execution Time Std Dev: 0.375647 ms
+Processed Cells: 3905.600
+Edge Relaxations: 12475.700
+Cost: 2677.200
+Dijkstra Peak Memory: 1.959 KB
+Dial Peak Memory: 6.321 KB
+
+========================================
+Grid Size: 50 x 50
+========================================
+Grid Size: 50 x 50
+Obstacle Ratio: 20%
+Wmin: 1
+Wmax: 100
+V: 2000.000
+E: 3137.100
+Wmean: 50.335
+Wmedian: 50.400
+
+Dijkstra
+Execution Time: 0.204 ms
+Execution Time Std Dev: 0.101557 ms
+Processed Cells: 1293.300
+Edge Relaxations: 4094.400
+Cost: 1616.800
+
+Dial's Algorithm
+Execution Time: 0.201 ms
+Execution Time Std Dev: 0.096560 ms
+Processed Cells: 1293.800
+Edge Relaxations: 4096.100
+Cost: 1616.800
+Dijkstra Peak Memory: 1.096 KB
+Dial Peak Memory: 4.628 KB
+
+========================================
+Grid Size: 100 x 100
+========================================
+Grid Size: 100 x 100
+Obstacle Ratio: 20%
+Wmin: 1
+Wmax: 100
+V: 8000.000
+E: 12666.200
+Wmean: 50.754
+Wmedian: 50.850
+
+Dijkstra
+Execution Time: 0.660 ms
+Execution Time Std Dev: 0.321126 ms
+Processed Cells: 4110.300
+Edge Relaxations: 13104.400
+Cost: 2676.800
+
+Dial's Algorithm
+Execution Time: 0.620 ms
+Execution Time Std Dev: 0.293654 ms
+Processed Cells: 4109.900
+Edge Relaxations: 13102.900
+Cost: 2676.800
+Dijkstra Peak Memory: 1.889 KB
+Dial Peak Memory: 6.461 KB
+
+========================================
+Grid Size: 200 x 200
+========================================
+Grid Size: 200 x 200
+Obstacle Ratio: 20%
+Wmin: 1
+Wmax: 100
+V: 32000.000
+E: 50951.700
+Wmean: 50.541
+Wmedian: 50.500
+
+Dijkstra
+Execution Time: 3.630 ms
+Execution Time Std Dev: 1.454834 ms
+Processed Cells: 19679.100
+Edge Relaxations: 62970.200
+Cost: 5731.700
+
+Dial's Algorithm
+Execution Time: 3.252 ms
+Execution Time Std Dev: 1.290982 ms
+Processed Cells: 19679.500
+Edge Relaxations: 62971.600
+Cost: 5731.700
+Dijkstra Peak Memory: 4.136 KB
+Dial Peak Memory: 10.873 KB
+
+========================================
+Grid Size: 400 x 400
+========================================
+Grid Size: 400 x 400
+Obstacle Ratio: 20%
+Wmin: 1
+Wmax: 100
+V: 128000.000
+E: 204347.600
+Wmean: 50.566
+Wmedian: 50.700
+
+Dijkstra
+Execution Time: 9.055 ms
+Execution Time Std Dev: 7.612917 ms
+Processed Cells: 44680.600
+Edge Relaxations: 143282.700
+Cost: 7544.300
+
+Dial's Algorithm
+Execution Time: 8.244 ms
+Execution Time Std Dev: 6.896383 ms
+Processed Cells: 44683.000
+Edge Relaxations: 143291.000
+Cost: 7544.300
+Dijkstra Peak Memory: 7.329 KB
+Dial Peak Memory: 15.366 KB
+
+========================================
+Obstacle Ratio: 0%
+========================================
+Grid Size: 100 x 100
+Obstacle Ratio: 0%
+Wmin: 1
+Wmax: 100
+V: 10000.000
+E: 19800.000
+Wmean: 50.428
+Wmedian: 50.300
+
+Dijkstra
+Execution Time: 1.025 ms
+Execution Time Std Dev: 0.608035 ms
+Processed Cells: 5841.400
+Edge Relaxations: 23193.000
+Cost: 2336.300
+
+Dial's Algorithm
+Execution Time: 0.941 ms
+Execution Time Std Dev: 0.547675 ms
+Processed Cells: 5841.200
+Edge Relaxations: 23192.200
+Cost: 2336.300
+Dijkstra Peak Memory: 3.252 KB
+Dial Peak Memory: 8.131 KB
+
+========================================
+Obstacle Ratio: 10%
+========================================
+Grid Size: 100 x 100
+Obstacle Ratio: 10%
+Wmin: 1
+Wmax: 100
+V: 9000.000
+E: 16039.700
+Wmean: 50.428
+Wmedian: 50.200
+
+Dijkstra
+Execution Time: 0.883 ms
+Execution Time Std Dev: 0.544992 ms
+Processed Cells: 5281.900
+Edge Relaxations: 18891.300
+Cost: 2629.700
+
+Dial's Algorithm
+Execution Time: 0.828 ms
+Execution Time Std Dev: 0.506523 ms
+Processed Cells: 5281.600
+Edge Relaxations: 18890.400
+Cost: 2629.700
+Dijkstra Peak Memory: 2.336 KB
+Dial Peak Memory: 7.295 KB
+
+========================================
+Obstacle Ratio: 20%
+========================================
+Grid Size: 100 x 100
+Obstacle Ratio: 20%
+Wmin: 1
+Wmax: 100
+V: 8000.000
+E: 12655.800
+Wmean: 50.406
+Wmedian: 50.300
+
+Dijkstra
+Execution Time: 0.758 ms
+Execution Time Std Dev: 0.445853 ms
+Processed Cells: 4736.400
+Edge Relaxations: 15073.200
+Cost: 3029.400
+
+Dial's Algorithm
+Execution Time: 0.710 ms
+Execution Time Std Dev: 0.406499 ms
+Processed Cells: 4736.100
+Edge Relaxations: 15072.200
+Cost: 3029.400
+Dijkstra Peak Memory: 2.007 KB
+Dial Peak Memory: 6.591 KB
+
+========================================
+Obstacle Ratio: 30%
+========================================
+Grid Size: 100 x 100
+Obstacle Ratio: 30%
+Wmin: 1
+Wmax: 100
+V: 7000.000
+E: 9680.700
+Wmean: 50.426
+Wmedian: 50.300
+
+Dijkstra
+Execution Time: 0.632 ms
+Execution Time Std Dev: 0.365227 ms
+Processed Cells: 4060.900
+Edge Relaxations: 11453.800
+Cost: 3682.900
+
+Dial's Algorithm
+Execution Time: 0.595 ms
+Execution Time Std Dev: 0.333973 ms
+Processed Cells: 4060.900
+Edge Relaxations: 11454.000
+Cost: 3682.900
+Dijkstra Peak Memory: 1.506 KB
+Dial Peak Memory: 5.741 KB
+
+========================================
+Wmax: 100
+========================================
+Grid Size: 100 x 100
+Obstacle Ratio: 20%
+Wmin: 1
+Wmax: 100
+V: 8000.000
+E: 12681.300
+Wmean: 50.467
+Wmedian: 50.700
+
+Dijkstra
+Execution Time: 0.775 ms
+Execution Time Std Dev: 0.403775 ms
+Processed Cells: 4021.400
+Edge Relaxations: 12885.500
+Cost: 2427.600
+
+Dial's Algorithm
+Execution Time: 0.735 ms
+Execution Time Std Dev: 0.371546 ms
+Processed Cells: 4021.600
+Edge Relaxations: 12885.600
+Cost: 2427.600
+Dijkstra Peak Memory: 2.176 KB
+Dial Peak Memory: 6.845 KB
+
+========================================
+Wmax: 1000
+========================================
+Grid Size: 100 x 100
+Obstacle Ratio: 20%
+Wmin: 1
+Wmax: 1000
+V: 8000.000
+E: 12681.300
+Wmean: 500.439
+Wmedian: 500.450
+
+Dijkstra
+Execution Time: 0.836 ms
+Execution Time Std Dev: 0.368100 ms
+Processed Cells: 4248.700
+Edge Relaxations: 13601.700
+Cost: 24952.100
+
+Dial's Algorithm
+Execution Time: 0.960 ms
+Execution Time Std Dev: 0.413406 ms
+Processed Cells: 4248.500
+Edge Relaxations: 13601.100
+Cost: 24952.100
+Dijkstra Peak Memory: 2.212 KB
+Dial Peak Memory: 33.561 KB
+
+========================================
+Wmax: 10000
+========================================
+Grid Size: 100 x 100
+Obstacle Ratio: 20%
+Wmin: 1
+Wmax: 10000
+V: 8000.000
+E: 12681.300
+Wmean: 5012.023
+Wmedian: 5016.050
+
+Dijkstra
+Execution Time: 0.718 ms
+Execution Time Std Dev: 0.367569 ms
+Processed Cells: 4114.200
+Edge Relaxations: 13163.600
+Cost: 243810.700
+
+Dial's Algorithm
+Execution Time: 1.253 ms
+Execution Time Std Dev: 0.544865 ms
+Processed Cells: 4114.200
+Edge Relaxations: 13163.600
+Cost: 243810.700
+Dijkstra Peak Memory: 2.212 KB
+Dial Peak Memory: 260.697 KB
+
+========================================
+Wmax: 100000
+========================================
+Grid Size: 100 x 100
+Obstacle Ratio: 20%
+Wmin: 1
+Wmax: 100000
+V: 8000.000
+E: 12681.300
+Wmean: 49981.766
+Wmedian: 49990.500
+
+Dijkstra
+Execution Time: 0.767 ms
+Execution Time Std Dev: 0.401789 ms
+Processed Cells: 4152.000
+Edge Relaxations: 13292.200
+Cost: 2480217.700
+
+Dial's Algorithm
+Execution Time: 5.237 ms
+Execution Time Std Dev: 1.833395 ms
+Processed Cells: 4152.000
+Edge Relaxations: 13292.200
+Cost: 2480217.700
+Dijkstra Peak Memory: 2.212 KB
+Dial Peak Memory: 2376.367 KB
+
+========================================
+Wmin: 1, Wmax: 10000
+========================================
+Grid Size: 100 x 100
+Obstacle Ratio: 20%
+Wmin: 1
+Wmax: 10000
+V: 8000.000
+E: 12677.200
+Wmean: 5002.002
+Wmedian: 5002.900
+
+Dijkstra
+Execution Time: 0.690 ms
+Execution Time Std Dev: 0.388621 ms
+Processed Cells: 4183.400
+Edge Relaxations: 13348.500
+Cost: 250453.200
+
+Dial's Algorithm
+Execution Time: 1.175 ms
+Execution Time Std Dev: 0.585643 ms
+Processed Cells: 4183.400
+Edge Relaxations: 13348.500
+Cost: 250453.200
+Dijkstra Peak Memory: 2.162 KB
+Dial Peak Memory: 260.704 KB
+
+========================================
+Wmin: 2500, Wmax: 10000
+========================================
+Grid Size: 100 x 100
+Obstacle Ratio: 20%
+Wmin: 2500
+Wmax: 10000
+V: 8000.000
+E: 12677.200
+Wmean: 6260.914
+Wmedian: 6267.350
+
+Dijkstra
+Execution Time: 0.654 ms
+Execution Time Std Dev: 0.388667 ms
+Processed Cells: 4109.300
+Edge Relaxations: 13107.400
+Cost: 363226.300
+
+Dial's Algorithm
+Execution Time: 1.335 ms
+Execution Time Std Dev: 0.682328 ms
+Processed Cells: 4109.200
+Edge Relaxations: 13107.200
+Cost: 363226.300
+Dijkstra Peak Memory: 1.711 KB
+Dial Peak Memory: 260.032 KB
+
+========================================
+Wmin: 5000, Wmax: 10000
+========================================
+Grid Size: 100 x 100
+Obstacle Ratio: 20%
+Wmin: 5000
+Wmax: 10000
+V: 8000.000
+E: 12677.200
+Wmean: 7507.863
+Wmedian: 7512.350
+
+Dijkstra
+Execution Time: 0.649 ms
+Execution Time Std Dev: 0.364180 ms
+Processed Cells: 4071.800
+Edge Relaxations: 12986.800
+Cost: 465074.300
+
+Dial's Algorithm
+Execution Time: 1.478 ms
+Execution Time Std Dev: 0.695156 ms
+Processed Cells: 4071.800
+Edge Relaxations: 12986.800
+Cost: 465074.300
+Dijkstra Peak Memory: 1.645 KB
+Dial Peak Memory: 259.785 KB
+
+========================================
+Wmin: 10000, Wmax: 10000
+========================================
+Grid Size: 100 x 100
+Obstacle Ratio: 20%
+Wmin: 10000
+Wmax: 10000
+V: 8000.000
+E: 12677.200
+Wmean: 10000.000
+Wmedian: 10000.000
+
+Dijkstra
+Execution Time: 0.674 ms
+Execution Time Std Dev: 0.385061 ms
+Processed Cells: 4067.200
+Edge Relaxations: 12966.400
+Cost: 666000.000
+
+Dial's Algorithm
+Execution Time: 1.633 ms
+Execution Time Std Dev: 0.777662 ms
+Processed Cells: 4074.400
+Edge Relaxations: 12989.700
+Cost: 666000.000
+Dijkstra Peak Memory: 1.711 KB
+Dial Peak Memory: 274.295 KB
+
+========================================
+Fixed Weight: 100
+========================================
+Grid Size: 100 x 100
+Obstacle Ratio: 20%
+Wmin: 100
+Wmax: 100
+V: 8000.000
+E: 12679.000
+Wmean: 100.000
+Wmedian: 100.000
+
+Dijkstra
+Execution Time: 0.628 ms
+Execution Time Std Dev: 0.362641 ms
+Processed Cells: 4152.900
+Edge Relaxations: 13252.400
+Cost: 6980.000
+
+Dial's Algorithm
+Execution Time: 0.629 ms
+Execution Time Std Dev: 0.355011 ms
+Processed Cells: 4160.700
+Edge Relaxations: 13277.500
+Cost: 6980.000
+Dijkstra Peak Memory: 1.670 KB
+Dial Peak Memory: 41.461 KB
+
+========================================
+Fixed Weight: 1000
+========================================
+Grid Size: 100 x 100
+Obstacle Ratio: 20%
+Wmin: 1000
+Wmax: 1000
+V: 8000.000
+E: 12679.000
+Wmean: 1000.000
+Wmedian: 1000.000
+
+Dijkstra
+Execution Time: 0.748 ms
+Execution Time Std Dev: 0.430816 ms
+Processed Cells: 4152.900
+Edge Relaxations: 13252.400
+Cost: 69800.000
+
+Dial's Algorithm
+Execution Time: 0.859 ms
+Execution Time Std Dev: 0.463569 ms
+Processed Cells: 4160.700
+Edge Relaxations: 13277.500
+Cost: 69800.000
+Dijkstra Peak Memory: 1.670 KB
+Dial Peak Memory: 64.008 KB
+
+========================================
+Fixed Weight: 10000
+========================================
+Grid Size: 100 x 100
+Obstacle Ratio: 20%
+Wmin: 10000
+Wmax: 10000
+V: 8000.000
+E: 12679.000
+Wmean: 10000.000
+Wmedian: 10000.000
+
+Dijkstra
+Execution Time: 0.680 ms
+Execution Time Std Dev: 0.396317 ms
+Processed Cells: 4152.900
+Edge Relaxations: 13252.400
+Cost: 698000.000
+
+Dial's Algorithm
+Execution Time: 1.714 ms
+Execution Time Std Dev: 0.911756 ms
+Processed Cells: 4160.700
+Edge Relaxations: 13277.500
+Cost: 698000.000
+Dijkstra Peak Memory: 1.670 KB
+Dial Peak Memory: 274.945 KB
+
+========================================
+Fixed Weight: 100000
+========================================
+Grid Size: 100 x 100
+Obstacle Ratio: 20%
+Wmin: 100000
+Wmax: 100000
+V: 8000.000
+E: 12679.000
+Wmean: 100000.000
+Wmedian: 100000.000
+
+Dijkstra
+Execution Time: 0.833 ms
+Execution Time Std Dev: 0.483459 ms
+Processed Cells: 4152.900
+Edge Relaxations: 13252.400
+Cost: 6980000.000
+
+Dial's Algorithm
+Execution Time: 12.143 ms
+Execution Time Std Dev: 5.803671 ms
+Processed Cells: 4160.700
+Edge Relaxations: 13277.500
+Cost: 6980000.000
+Dijkstra Peak Memory: 1.670 KB
+Dial Peak Memory: 2384.320 KB
+
+========================================
+Unweighted: 50 x 50
+========================================
+Grid Size: 50 x 50
+Obstacle Ratio: 20%
+Wmin: 1
+Wmax: 1
+V: 2000.000
+E: 3137.800
+Wmean: 1.000
+Wmedian: 1.000
+
+Dijkstra
+Execution Time: 0.156 ms
+Execution Time Std Dev: 0.079377 ms
+Processed Cells: 1039.000
+Edge Relaxations: 3294.200
+Cost: 36.000
+
+Dial's Algorithm
+Execution Time: 0.146 ms
+Execution Time Std Dev: 0.075188 ms
+Processed Cells: 1041.700
+Edge Relaxations: 3302.000
+Cost: 36.000
+Dijkstra Peak Memory: 0.750 KB
+Dial Peak Memory: 0.990 KB
+
+========================================
+Unweighted: 100 x 100
+========================================
+Grid Size: 100 x 100
+Obstacle Ratio: 20%
+Wmin: 1
+Wmax: 1
+V: 8000.000
+E: 12675.100
+Wmean: 1.000
+Wmedian: 1.000
+
+Dijkstra
+Execution Time: 0.725 ms
+Execution Time Std Dev: 0.374251 ms
+Processed Cells: 4656.400
+Edge Relaxations: 14807.800
+Cost: 85.100
+
+Dial's Algorithm
+Execution Time: 0.675 ms
+Execution Time Std Dev: 0.350921 ms
+Processed Cells: 4645.900
+Edge Relaxations: 14773.200
+Cost: 85.100
+Dijkstra Peak Memory: 1.561 KB
+Dial Peak Memory: 1.598 KB
+
+========================================
+Unweighted: 200 x 200
+========================================
+Grid Size: 200 x 200
+Obstacle Ratio: 20%
+Wmin: 1
+Wmax: 1
+V: 32000.000
+E: 50954.100
+Wmean: 1.000
+Wmedian: 1.000
+
+Dijkstra
+Execution Time: 2.550 ms
+Execution Time Std Dev: 1.633226 ms
+Processed Cells: 15385.200
+Edge Relaxations: 49124.400
+Cost: 141.400
+
+Dial's Algorithm
+Execution Time: 2.253 ms
+Execution Time Std Dev: 1.416178 ms
+Processed Cells: 15392.100
+Edge Relaxations: 49144.000
+Cost: 141.400
+Dijkstra Peak Memory: 3.232 KB
+Dial Peak Memory: 3.270 KB
+
+========================================
+Unweighted: 400 x 400
+========================================
+Grid Size: 400 x 400
+Obstacle Ratio: 20%
+Wmin: 1
+Wmax: 1
+V: 128000.000
+E: 204288.300
+Wmean: 1.000
+Wmedian: 1.000
+
+Dijkstra
+Execution Time: 11.204 ms
+Execution Time Std Dev: 8.078929 ms
+Processed Cells: 55905.000
+Edge Relaxations: 179002.300
+Cost: 259.200
+
+Dial's Algorithm
+Execution Time: 9.731 ms
+Execution Time Std Dev: 6.939213 ms
+Processed Cells: 55969.600
+Edge Relaxations: 179205.200
+Cost: 259.200
+Dijkstra Peak Memory: 4.887 KB
+Dial Peak Memory: 5.781 KB
+
+========================================
+EXPERIMENT SET 2 - UNREACHABLE GRID SUMMARY
+========================================
+Baseline: 0 rejected
+Grid Size: 50 x 50: 0 rejected
+Grid Size: 100 x 100: 0 rejected
+Grid Size: 200 x 200: 0 rejected
+Grid Size: 400 x 400: 0 rejected
+Obstacle Ratio (paired layouts, checked at 30%): 0 rejected
+Shared base grids for Wmax: 100 ...: 0 rejected
+Shared base grids for Wmin: 1, Wmax: 10000 ...: 0 rejected
+Shared base grids for Fixed Weight: 100 ...: 0 rejected
+Unweighted: 50 x 50: 0 rejected
+Unweighted: 100 x 100: 0 rejected
+Unweighted: 200 x 200: 0 rejected
+Unweighted: 400 x 400: 0 rejected
+Total Unreachable Grids Rejected: 0
+
+
+########################################
+CROSSOVER ANALYSIS - GRID SIZE x WMAX
+########################################
+Obstacle Ratio: 20%
+Wmin: 1
+Random Grids: 10
+Runs Per Grid: 10
+
+Speed Ratio = Dial Time / Dijkstra Time
+Ratio < 1: Dial faster
+Ratio > 1: Dijkstra faster
+
+Grid Size / W               10           100          1000         10000
+10 x 10                  1.048         1.246         2.248        10.554
+50 x 50                  0.934         1.023         1.268         2.786
+100 x 100                0.887         0.947         1.088         1.817
+200 x 200                0.887         0.915         1.031         1.374
+300 x 300                0.904         0.909         0.971         1.184
+500 x 500                0.886         0.892         0.962         1.153
+700 x 700                0.902         0.870         0.930         1.110
+1000 x 1000              0.902         0.901         0.931         1.071
+1500 x 1500              0.896         0.904         0.940         1.046
+
+SPEED RATIO STD DEV (across independent grid instances)
+Grid Size / W               10           100          1000         10000
+10 x 10               0.167827      0.072867      0.577029      3.800891
+50 x 50               0.044444      0.062456      0.152898      1.072800
+100 x 100             0.055049      0.056617      0.132835      1.026705
+200 x 200             0.029285      0.028291      0.051975      0.155026
+300 x 300             0.013096      0.023930      0.028574      0.084022
+500 x 500             0.021900      0.023396      0.028385      0.098249
+700 x 700             0.025051      0.021976      0.019791      0.033473
+1000 x 1000           0.014236      0.019309      0.020282      0.043885
+1500 x 1500           0.018568      0.022958      0.033721      0.067099
+
+========================================
+CROSSOVER ANALYSIS - UNREACHABLE GRID SUMMARY
+========================================
+Crossover Grid Size 10: 0 rejected
+Crossover Grid Size 50: 1 rejected
+Crossover Grid Size 100: 0 rejected
+Crossover Grid Size 200: 0 rejected
+Crossover Grid Size 300: 0 rejected
+Crossover Grid Size 500: 0 rejected
+Crossover Grid Size 700: 0 rejected
+Crossover Grid Size 1000: 0 rejected
+Crossover Grid Size 1500: 0 rejected
+Total Unreachable Grids Rejected: 1
+
+
+########################################
+H3 - WEIGHT SCALE SENSITIVITY
+########################################
+
+========================================
+Weight Scale: 1 - 10
+========================================
+Random Grids: 10
+Runs Per Grid: 10
+
+Dijkstra
+Mean Execution Time: 0.595 ms
+Execution Time Std Dev: 0.356461 ms
+Mean Processed Cells: 3743.200
+Mean Edge Relaxations: 11974.100
+Mean Time / Relaxation: 50.660 ns
+
+Dial's Algorithm
+Mean Execution Time: 0.536 ms
+Execution Time Std Dev: 0.318255 ms
+Mean Processed Cells: 3739.000
+Mean Edge Relaxations: 11962.000
+Mean Time / Relaxation: 45.892 ns
+
+Speed Ratio: 0.900
+Speed Ratio Std Dev: 0.032902
+
+========================================
+Weight Scale: 10 - 100
+========================================
+Random Grids: 10
+Runs Per Grid: 10
+
+Dijkstra
+Mean Execution Time: 0.566 ms
+Execution Time Std Dev: 0.322702 ms
+Mean Processed Cells: 3580.000
+Mean Edge Relaxations: 11454.800
+Mean Time / Relaxation: 51.030 ns
+
+Dial's Algorithm
+Mean Execution Time: 0.543 ms
+Execution Time Std Dev: 0.313822 ms
+Mean Processed Cells: 3580.400
+Mean Edge Relaxations: 11456.100
+Mean Time / Relaxation: 48.725 ns
+
+Speed Ratio: 0.959
+Speed Ratio Std Dev: 0.027468
+
+========================================
+Weight Scale: 100 - 1000
+========================================
+Random Grids: 10
+Runs Per Grid: 10
+
+Dijkstra
+Mean Execution Time: 0.631 ms
+Execution Time Std Dev: 0.371501 ms
+Mean Processed Cells: 3761.800
+Mean Edge Relaxations: 12038.200
+Mean Time / Relaxation: 51.675 ns
+
+Dial's Algorithm
+Mean Execution Time: 0.700 ms
+Execution Time Std Dev: 0.384479 ms
+Mean Processed Cells: 3761.900
+Mean Edge Relaxations: 12038.500
+Mean Time / Relaxation: 59.591 ns
+
+Speed Ratio: 1.108
+Speed Ratio Std Dev: 0.100636
+
+========================================
+Weight Scale: 1000 - 10000
+========================================
+Random Grids: 10
+Runs Per Grid: 10
+
+Dijkstra
+Mean Execution Time: 0.600 ms
+Execution Time Std Dev: 0.370386 ms
+Mean Processed Cells: 3766.100
+Mean Edge Relaxations: 12050.500
+Mean Time / Relaxation: 51.078 ns
+
+Dial's Algorithm
+Mean Execution Time: 1.123 ms
+Execution Time Std Dev: 0.607386 ms
+Mean Processed Cells: 3766.100
+Mean Edge Relaxations: 12050.500
+Mean Time / Relaxation: 104.485 ns
+
+Speed Ratio: 1.870
+Speed Ratio Std Dev: 0.333285
+
+========================================
+Weight Scale: 10000 - 100000
+========================================
+Random Grids: 10
+Runs Per Grid: 10
+
+Dijkstra
+Mean Execution Time: 0.626 ms
+Execution Time Std Dev: 0.400560 ms
+Mean Processed Cells: 3668.000
+Mean Edge Relaxations: 11739.100
+Mean Time / Relaxation: 53.670 ns
+
+Dial's Algorithm
+Mean Execution Time: 5.010 ms
+Execution Time Std Dev: 2.228243 ms
+Mean Processed Cells: 3668.000
+Mean Edge Relaxations: 11739.100
+Mean Time / Relaxation: 518.644 ns
+
+Speed Ratio: 7.999
+Speed Ratio Std Dev: 3.102841
+
+========================================
+All Cells = 500
+========================================
+Dijkstra Time: 0.677 ms
+Dijkstra Time Std Dev: 0.334509 ms
+Dial Time: 0.718 ms
+Dial Time Std Dev: 0.341962 ms
+Dijkstra Processed Cells: 4374.200
+Dial Processed Cells: 4377.500
+Dijkstra Edge Relaxations: 13961.400
+Dial Edge Relaxations: 13970.300
+Dial Empty Buckets Scanned: 33600.000
+Shortest Path Cost: 33600.000
+Speed Ratio: 1.061
+Speed Ratio Std Dev: 0.037432
+
+========================================
+5% Cells = 1000, Rest = 1
+========================================
+Dijkstra Time: 0.869 ms
+Dijkstra Time Std Dev: 0.397532 ms
+Dial Time: 0.818 ms
+Dial Time Std Dev: 0.371363 ms
+Dijkstra Processed Cells: 5029.600
+Dial Processed Cells: 5033.100
+Dijkstra Edge Relaxations: 16061.400
+Dial Edge Relaxations: 16070.200
+Dial Empty Buckets Scanned: 268.000
+Shortest Path Cost: 268.000
+Speed Ratio: 0.941
+Speed Ratio Std Dev: 0.037122
+
+========================================
+EXPERIMENT SET 3 - UNREACHABLE GRID SUMMARY
+========================================
+Weight Scale (shared base grids): 0 rejected
+Weight Distribution (shared base grids): 0 rejected
+Total Unreachable Grids Rejected: 0
+
+
+========================================
+FIXED WMAX = 1000, VARY WMEAN
+========================================
+
+W Mean: 1.125
+W Max: 1000
+Bucket Count: 1001
+Dijkstra Time: 0.421 ms
+Dijkstra Time Std Dev: 0.334103 ms
+Dijkstra Peak Memory: 1.323 KB
+Dijkstra Processed / Relaxations: 2684.800 / 8588.700
+Dial Time: 0.427 ms
+Dial Time Std Dev: 0.333357 ms
+Dial Peak Memory: 49.748 KB
+Dial Processed / Relaxations: 2686.900 / 8593.100
+Cost: 52.600
+Empty Buckets Scanned: 52.600
+
+W Mean: 100.112
+W Max: 1000
+Bucket Count: 1001
+Dijkstra Time: 0.412 ms
+Dijkstra Time Std Dev: 0.322826 ms
+Dijkstra Peak Memory: 1.323 KB
+Dijkstra Processed / Relaxations: 2688.000 / 8599.200
+Dial Time: 0.424 ms
+Dial Time Std Dev: 0.326345 ms
+Dial Peak Memory: 49.749 KB
+Dial Processed / Relaxations: 2687.000 / 8593.500
+Cost: 5260.000
+Empty Buckets Scanned: 5260.000
+
+W Mean: 300.088
+W Max: 1000
+Bucket Count: 1001
+Dijkstra Time: 0.391 ms
+Dijkstra Time Std Dev: 0.310345 ms
+Dijkstra Peak Memory: 1.323 KB
+Dijkstra Processed / Relaxations: 2683.800 / 8584.600
+Dial Time: 0.419 ms
+Dial Time Std Dev: 0.324936 ms
+Dial Peak Memory: 49.750 KB
+Dial Processed / Relaxations: 2687.100 / 8593.700
+Cost: 15780.000
+Empty Buckets Scanned: 15780.000
+
+W Mean: 500.062
+W Max: 1000
+Bucket Count: 1001
+Dijkstra Time: 0.401 ms
+Dijkstra Time Std Dev: 0.324744 ms
+Dijkstra Peak Memory: 1.323 KB
+Dijkstra Processed / Relaxations: 2687.300 / 8596.700
+Dial Time: 0.444 ms
+Dial Time Std Dev: 0.356455 ms
+Dial Peak Memory: 49.748 KB
+Dial Processed / Relaxations: 2687.100 / 8593.700
+Cost: 26300.000
+Empty Buckets Scanned: 26300.000
+
+W Mean: 800.025
+W Max: 1000
+Bucket Count: 1001
+Dijkstra Time: 0.392 ms
+Dijkstra Time Std Dev: 0.313278 ms
+Dijkstra Peak Memory: 1.323 KB
+Dijkstra Processed / Relaxations: 2682.700 / 8581.800
+Dial Time: 0.452 ms
+Dial Time Std Dev: 0.347322 ms
+Dial Peak Memory: 49.750 KB
+Dial Processed / Relaxations: 2687.100 / 8593.700
+Cost: 42080.000
+Empty Buckets Scanned: 42080.000
+
+
+========================================
+FIXED WMEAN ~= 500, VARY WMAX
+========================================
+
+W Mean: 500.000
+W Max: 500
+Bucket Count: 501
+Dijkstra Time: 0.393 ms
+Dijkstra Time Std Dev: 0.321998 ms
+Dijkstra Peak Memory: 1.323 KB
+Dijkstra Processed / Relaxations: 2687.700 / 8597.700
+Dial Time: 0.434 ms
+Dial Time Std Dev: 0.339266 ms
+Dial Peak Memory: 38.030 KB
+Dial Processed / Relaxations: 2687.100 / 8593.700
+Cost: 26300.000
+Empty Buckets Scanned: 26300.000
+
+W Mean: 499.876
+W Max: 1000
+Bucket Count: 1001
+Dijkstra Time: 0.424 ms
+Dijkstra Time Std Dev: 0.358108 ms
+Dijkstra Peak Memory: 2.732 KB
+Dijkstra Processed / Relaxations: 2634.700 / 8453.800
+Dial Time: 0.405 ms
+Dial Time Std Dev: 0.325142 ms
+Dial Peak Memory: 29.444 KB
+Dial Processed / Relaxations: 2637.600 / 8463.600
+Cost: 12151.100
+Empty Buckets Scanned: 12151.100
+
+W Mean: 499.750
+W Max: 2000
+Bucket Count: 2001
+Dijkstra Time: 0.684 ms
+Dijkstra Time Std Dev: 0.453064 ms
+Dijkstra Peak Memory: 12.338 KB
+Dijkstra Processed / Relaxations: 3998.400 / 12859.200
+Dial Time: 0.623 ms
+Dial Time Std Dev: 0.397544 ms
+Dial Peak Memory: 72.366 KB
+Dial Processed / Relaxations: 4002.700 / 12874.000
+Cost: 2709.900
+Empty Buckets Scanned: 2709.900
+
+W Mean: 499.650
+W Max: 5000
+Bucket Count: 5001
+Dijkstra Time: 0.603 ms
+Dijkstra Time Std Dev: 0.544725 ms
+Dijkstra Peak Memory: 6.686 KB
+Dijkstra Processed / Relaxations: 3645.400 / 11631.600
+Dial Time: 0.564 ms
+Dial Time Std Dev: 0.484673 ms
+Dial Peak Memory: 150.120 KB
+Dial Processed / Relaxations: 3651.200 / 11649.700
+Cost: 2055.000
+Empty Buckets Scanned: 2055.000
+
+W Mean: 499.700
+W Max: 10000
+Bucket Count: 10001
+Dijkstra Time: 0.494 ms
+Dijkstra Time Std Dev: 0.457213 ms
+Dijkstra Peak Memory: 3.137 KB
+Dijkstra Processed / Relaxations: 3100.700 / 9900.600
+Dial Time: 0.492 ms
+Dial Time Std Dev: 0.430367 ms
+Dial Peak Memory: 264.041 KB
+Dial Processed / Relaxations: 3102.100 / 9904.200
+Cost: 2052.800
+Empty Buckets Scanned: 2052.800
+
+========================================
+EXPERIMENT SET 4 - UNREACHABLE GRID SUMMARY
+========================================
+Set 4A/4B (shared base grids): 0 rejected
+Total Unreachable Grids Rejected: 0
+
+########################################
+FIXED MEAN - WEIGHT DISTRIBUTION BY GRID SIZE
+########################################
+
+========================================
+Grid Size: 5 x 5
+========================================
+Obstacle Ratio: 20%
+Random Grids: 10
+Runs Per Grid: 10
+Target Mean Weight: 500
+
+High Weight Ratio: 5.000%
+W Mean: 500.000
+Dijkstra Time: 0.002 ms
+Dijkstra Time Std Dev: 0.000568 ms
+Dial Time: 0.020 ms
+Dial Time Std Dev: 0.004557 ms
+Empty Buckets Scanned: 1001.600
+Speed Ratio: 10.434
+Speed Ratio Std Dev: 2.829496
+
+High Weight Ratio: 10.000%
+W Mean: 500.000
+Dijkstra Time: 0.002 ms
+Dijkstra Time Std Dev: 0.000968 ms
+Dial Time: 0.013 ms
+Dial Time Std Dev: 0.003234 ms
+Empty Buckets Scanned: 1002.600
+Speed Ratio: 5.344
+Speed Ratio Std Dev: 1.766740
+
+High Weight Ratio: 25.000%
+W Mean: 500.000
+Dijkstra Time: 0.002 ms
+Dijkstra Time Std Dev: 0.000743 ms
+Dial Time: 0.007 ms
+Dial Time Std Dev: 0.002909 ms
+Empty Buckets Scanned: 1401.200
+Speed Ratio: 3.755
+Speed Ratio Std Dev: 0.832193
+
+High Weight Ratio: 50.000%
+W Mean: 500.000
+Dijkstra Time: 0.002 ms
+Dijkstra Time Std Dev: 0.000720 ms
+Dial Time: 0.006 ms
+Dial Time Std Dev: 0.002360 ms
+Empty Buckets Scanned: 1501.400
+Speed Ratio: 2.933
+Speed Ratio Std Dev: 0.660441
+
+High Weight Ratio: 75.000%
+W Mean: 500.000
+Dijkstra Time: 0.002 ms
+Dijkstra Time Std Dev: 0.000640 ms
+Dial Time: 0.006 ms
+Dial Time Std Dev: 0.002271 ms
+Empty Buckets Scanned: 1866.600
+Speed Ratio: 3.026
+Speed Ratio Std Dev: 0.702463
+
+High Weight Ratio: 100.000%
+W Mean: 500.000
+Dijkstra Time: 0.002 ms
+Dijkstra Time Std Dev: 0.000568 ms
+Dial Time: 0.006 ms
+Dial Time Std Dev: 0.002076 ms
+Empty Buckets Scanned: 1800.000
+Speed Ratio: 3.225
+Speed Ratio Std Dev: 0.603055
+
+SPEED RATIO COMPARISON
+Grid Size       5.000%  10.000% 25.000% 50.000% 75.000% 100.000%
+5 x 5   10.434   5.344   3.755   2.933   3.026   3.225
+SPEED RATIO STD DEV COMPARISON
+Grid Size       5.000%  10.000% 25.000% 50.000% 75.000% 100.000%
+5 x 5   2.829496        1.766740        0.832193        0.660441        0.702463        0.603055
+
+========================================
+Grid Size: 25 x 25
+========================================
+Obstacle Ratio: 20%
+Random Grids: 10
+Runs Per Grid: 10
+Target Mean Weight: 500
+
+High Weight Ratio: 5.000%
+W Mean: 500.000
+Dijkstra Time: 0.044 ms
+Dijkstra Time Std Dev: 0.027304 ms
+Dial Time: 0.069 ms
+Dial Time Std Dev: 0.034881 ms
+Empty Buckets Scanned: 2017.200
+Speed Ratio: 1.572
+Speed Ratio Std Dev: 0.487469
+
+High Weight Ratio: 10.000%
+W Mean: 500.000
+Dijkstra Time: 0.042 ms
+Dijkstra Time Std Dev: 0.029229 ms
+Dial Time: 0.057 ms
+Dial Time Std Dev: 0.033617 ms
+Empty Buckets Scanned: 1021.200
+Speed Ratio: 1.372
+Speed Ratio Std Dev: 0.309926
+
+High Weight Ratio: 25.000%
+W Mean: 500.000
+Dijkstra Time: 0.039 ms
+Dijkstra Time Std Dev: 0.027177 ms
+Dial Time: 0.049 ms
+Dial Time Std Dev: 0.030320 ms
+Empty Buckets Scanned: 2225.200
+Speed Ratio: 1.251
+Speed Ratio Std Dev: 0.164497
+
+High Weight Ratio: 50.000%
+W Mean: 500.000
+Dijkstra Time: 0.040 ms
+Dijkstra Time Std Dev: 0.024473 ms
+Dial Time: 0.051 ms
+Dial Time Std Dev: 0.027382 ms
+Empty Buckets Scanned: 6111.000
+Speed Ratio: 1.278
+Speed Ratio Std Dev: 0.164794
+
+High Weight Ratio: 75.000%
+W Mean: 500.000
+Dijkstra Time: 0.041 ms
+Dijkstra Time Std Dev: 0.027889 ms
+Dial Time: 0.055 ms
+Dial Time Std Dev: 0.032769 ms
+Empty Buckets Scanned: 8006.000
+Speed Ratio: 1.332
+Speed Ratio Std Dev: 0.174667
+
+High Weight Ratio: 100.000%
+W Mean: 500.000
+Dijkstra Time: 0.043 ms
+Dijkstra Time Std Dev: 0.023464 ms
+Dial Time: 0.066 ms
+Dial Time Std Dev: 0.033542 ms
+Empty Buckets Scanned: 10300.000
+Speed Ratio: 1.551
+Speed Ratio Std Dev: 0.221714
+
+SPEED RATIO COMPARISON
+Grid Size       5.000%  10.000% 25.000% 50.000% 75.000% 100.000%
+25 x 25 1.572   1.372   1.251   1.278   1.332   1.551
+SPEED RATIO STD DEV COMPARISON
+Grid Size       5.000%  10.000% 25.000% 50.000% 75.000% 100.000%
+25 x 25 0.487469        0.309926        0.164497        0.164794        0.174667        0.221714
+
+========================================
+Grid Size: 100 x 100
+========================================
+Obstacle Ratio: 20%
+Random Grids: 10
+Runs Per Grid: 10
+Target Mean Weight: 500
+
+High Weight Ratio: 5.000%
+W Mean: 500.000
+Dijkstra Time: 0.878 ms
+Dijkstra Time Std Dev: 0.316555 ms
+Dial Time: 0.839 ms
+Dial Time Std Dev: 0.289050 ms
+Empty Buckets Scanned: 2083.900
+Speed Ratio: 0.955
+Speed Ratio Std Dev: 0.029993
+
+High Weight Ratio: 10.000%
+W Mean: 500.000
+Dijkstra Time: 0.863 ms
+Dijkstra Time Std Dev: 0.322841 ms
+Dial Time: 0.787 ms
+Dial Time Std Dev: 0.281953 ms
+Empty Buckets Scanned: 1090.500
+Speed Ratio: 0.912
+Speed Ratio Std Dev: 0.032634
+
+High Weight Ratio: 25.000%
+W Mean: 500.000
+Dijkstra Time: 0.958 ms
+Dijkstra Time Std Dev: 0.364877 ms
+Dial Time: 0.875 ms
+Dial Time Std Dev: 0.319117 ms
+Empty Buckets Scanned: 3937.500
+Speed Ratio: 0.913
+Speed Ratio Std Dev: 0.052616
+
+High Weight Ratio: 50.000%
+W Mean: 500.000
+Dijkstra Time: 0.900 ms
+Dijkstra Time Std Dev: 0.262371 ms
+Dial Time: 0.816 ms
+Dial Time Std Dev: 0.218639 ms
+Empty Buckets Scanned: 21557.900
+Speed Ratio: 0.907
+Speed Ratio Std Dev: 0.031824
+
+High Weight Ratio: 75.000%
+W Mean: 500.000
+Dijkstra Time: 0.835 ms
+Dijkstra Time Std Dev: 0.291182 ms
+Dial Time: 0.803 ms
+Dial Time Std Dev: 0.257769 ms
+Empty Buckets Scanned: 32354.100
+Speed Ratio: 0.962
+Speed Ratio Std Dev: 0.044845
+
+High Weight Ratio: 100.000%
+W Mean: 500.000
+Dijkstra Time: 0.780 ms
+Dijkstra Time Std Dev: 0.244582 ms
+Dial Time: 0.830 ms
+Dial Time Std Dev: 0.238629 ms
+Empty Buckets Scanned: 42850.000
+Speed Ratio: 1.064
+Speed Ratio Std Dev: 0.049638
+
+SPEED RATIO COMPARISON
+Grid Size       5.000%  10.000% 25.000% 50.000% 75.000% 100.000%
+100 x 100       0.955   0.912   0.913   0.907   0.962   1.064
+SPEED RATIO STD DEV COMPARISON
+Grid Size       5.000%  10.000% 25.000% 50.000% 75.000% 100.000%
+100 x 100       0.029993        0.032634        0.052616        0.031824        0.044845        0.049638
+
+========================================
+Grid Size: 250 x 250
+========================================
+Obstacle Ratio: 20%
+Random Grids: 10
+Runs Per Grid: 10
+Target Mean Weight: 500
+
+High Weight Ratio: 5.000%
+W Mean: 500.000
+Dijkstra Time: 4.160 ms
+Dijkstra Time Std Dev: 1.780068 ms
+Dial Time: 3.620 ms
+Dial Time Std Dev: 1.554978 ms
+Empty Buckets Scanned: 165.300
+Speed Ratio: 0.870
+Speed Ratio Std Dev: 0.023838
+
+High Weight Ratio: 10.000%
+W Mean: 500.000
+Dijkstra Time: 4.503 ms
+Dijkstra Time Std Dev: 2.519199 ms
+Dial Time: 3.862 ms
+Dial Time Std Dev: 2.166798 ms
+Empty Buckets Scanned: 669.100
+Speed Ratio: 0.858
+Speed Ratio Std Dev: 0.026899
+
+High Weight Ratio: 25.000%
+W Mean: 500.000
+Dijkstra Time: 5.791 ms
+Dijkstra Time Std Dev: 2.791091 ms
+Dial Time: 4.859 ms
+Dial Time Std Dev: 2.274067 ms
+Empty Buckets Scanned: 2715.500
+Speed Ratio: 0.839
+Speed Ratio Std Dev: 0.030477
+
+High Weight Ratio: 50.000%
+W Mean: 500.000
+Dijkstra Time: 4.610 ms
+Dijkstra Time Std Dev: 2.130534 ms
+Dial Time: 3.965 ms
+Dial Time Std Dev: 1.785950 ms
+Empty Buckets Scanned: 36427.500
+Speed Ratio: 0.860
+Speed Ratio Std Dev: 0.018856
+
+High Weight Ratio: 75.000%
+W Mean: 500.000
+Dijkstra Time: 4.051 ms
+Dijkstra Time Std Dev: 1.650350 ms
+Dial Time: 3.657 ms
+Dial Time Std Dev: 1.505796 ms
+Empty Buckets Scanned: 57514.200
+Speed Ratio: 0.903
+Speed Ratio Std Dev: 0.018569
+
+High Weight Ratio: 100.000%
+W Mean: 500.000
+Dijkstra Time: 3.963 ms
+Dijkstra Time Std Dev: 1.712288 ms
+Dial Time: 3.814 ms
+Dial Time Std Dev: 1.601219 ms
+Empty Buckets Scanned: 80250.000
+Speed Ratio: 0.962
+Speed Ratio Std Dev: 0.025664
+
+SPEED RATIO COMPARISON
+Grid Size       5.000%  10.000% 25.000% 50.000% 75.000% 100.000%
+250 x 250       0.870   0.858   0.839   0.860   0.903   0.962
+SPEED RATIO STD DEV COMPARISON
+Grid Size       5.000%  10.000% 25.000% 50.000% 75.000% 100.000%
+250 x 250       0.023838        0.026899        0.030477        0.018856        0.018569        0.025664
+
+========================================
+Grid Size: 500 x 500
+========================================
+Obstacle Ratio: 20%
+Random Grids: 10
+Runs Per Grid: 10
+Target Mean Weight: 500
+
+High Weight Ratio: 5.000%
+W Mean: 500.000
+Dijkstra Time: 13.753 ms
+Dijkstra Time Std Dev: 14.760699 ms
+Dial Time: 11.434 ms
+Dial Time Std Dev: 12.138224 ms
+Empty Buckets Scanned: 234.400
+Speed Ratio: 0.831
+Speed Ratio Std Dev: 0.054731
+
+High Weight Ratio: 10.000%
+W Mean: 500.000
+Dijkstra Time: 17.188 ms
+Dijkstra Time Std Dev: 15.675437 ms
+Dial Time: 13.835 ms
+Dial Time Std Dev: 12.513032 ms
+Empty Buckets Scanned: 740.400
+Speed Ratio: 0.805
+Speed Ratio Std Dev: 0.044894
+
+High Weight Ratio: 25.000%
+W Mean: 500.000
+Dijkstra Time: 13.039 ms
+Dijkstra Time Std Dev: 9.627558 ms
+Dial Time: 10.902 ms
+Dial Time Std Dev: 7.982853 ms
+Empty Buckets Scanned: 1691.400
+Speed Ratio: 0.836
+Speed Ratio Std Dev: 0.033868
+
+High Weight Ratio: 50.000%
+W Mean: 500.000
+Dijkstra Time: 14.719 ms
+Dijkstra Time Std Dev: 15.872041 ms
+Dial Time: 12.701 ms
+Dial Time Std Dev: 13.703536 ms
+Empty Buckets Scanned: 48886.400
+Speed Ratio: 0.863
+Speed Ratio Std Dev: 0.042996
+
+High Weight Ratio: 75.000%
+W Mean: 500.000
+Dijkstra Time: 13.839 ms
+Dijkstra Time Std Dev: 15.010221 ms
+Dial Time: 12.299 ms
+Dial Time Std Dev: 13.256523 ms
+Empty Buckets Scanned: 81209.600
+Speed Ratio: 0.889
+Speed Ratio Std Dev: 0.031096
+
+High Weight Ratio: 100.000%
+W Mean: 500.000
+Dijkstra Time: 13.080 ms
+Dijkstra Time Std Dev: 13.752329 ms
+Dial Time: 11.919 ms
+Dial Time Std Dev: 12.440088 ms
+Empty Buckets Scanned: 115700.000
+Speed Ratio: 0.911
+Speed Ratio Std Dev: 0.056357
+
+SPEED RATIO COMPARISON
+Grid Size       5.000%  10.000% 25.000% 50.000% 75.000% 100.000%
+500 x 500       0.831   0.805   0.836   0.863   0.889   0.911
+SPEED RATIO STD DEV COMPARISON
+Grid Size       5.000%  10.000% 25.000% 50.000% 75.000% 100.000%
+500 x 500       0.054731        0.044894        0.033868        0.042996        0.031096        0.056357
+
+========================================
+Grid Size: 750 x 750
+========================================
+Obstacle Ratio: 20%
+Random Grids: 10
+Runs Per Grid: 10
+Target Mean Weight: 500
+
+High Weight Ratio: 5.000%
+W Mean: 500.000
+Dijkstra Time: 53.570 ms
+Dijkstra Time Std Dev: 26.676055 ms
+Dial Time: 42.838 ms
+Dial Time Std Dev: 21.075688 ms
+Empty Buckets Scanned: 642.500
+Speed Ratio: 0.800
+Speed Ratio Std Dev: 0.026815
+
+High Weight Ratio: 10.000%
+W Mean: 500.000
+Dijkstra Time: 58.587 ms
+Dijkstra Time Std Dev: 34.558853 ms
+Dial Time: 46.079 ms
+Dial Time Std Dev: 26.926551 ms
+Empty Buckets Scanned: 1649.500
+Speed Ratio: 0.787
+Speed Ratio Std Dev: 0.034362
+
+High Weight Ratio: 25.000%
+W Mean: 500.000
+Dijkstra Time: 61.818 ms
+Dijkstra Time Std Dev: 34.102891 ms
+Dial Time: 49.770 ms
+Dial Time Std Dev: 26.865083 ms
+Empty Buckets Scanned: 4528.500
+Speed Ratio: 0.805
+Speed Ratio Std Dev: 0.016737
+
+High Weight Ratio: 50.000%
+W Mean: 500.000
+Dijkstra Time: 52.670 ms
+Dijkstra Time Std Dev: 26.614703 ms
+Dial Time: 45.124 ms
+Dial Time Std Dev: 22.703286 ms
+Empty Buckets Scanned: 123411.300
+Speed Ratio: 0.857
+Speed Ratio Std Dev: 0.010155
+
+High Weight Ratio: 75.000%
+W Mean: 500.000
+Dijkstra Time: 50.439 ms
+Dijkstra Time Std Dev: 27.447267 ms
+Dial Time: 44.828 ms
+Dial Time Std Dev: 24.458777 ms
+Empty Buckets Scanned: 212811.800
+Speed Ratio: 0.889
+Speed Ratio Std Dev: 0.010857
+
+High Weight Ratio: 100.000%
+W Mean: 500.000
+Dijkstra Time: 50.732 ms
+Dijkstra Time Std Dev: 24.678016 ms
+Dial Time: 45.191 ms
+Dial Time Std Dev: 21.821756 ms
+Empty Buckets Scanned: 318050.000
+Speed Ratio: 0.891
+Speed Ratio Std Dev: 0.025864
+
+SPEED RATIO COMPARISON
+Grid Size       5.000%  10.000% 25.000% 50.000% 75.000% 100.000%
+750 x 750       0.800   0.787   0.805   0.857   0.889   0.891
+SPEED RATIO STD DEV COMPARISON
+Grid Size       5.000%  10.000% 25.000% 50.000% 75.000% 100.000%
+750 x 750       0.026815        0.034362        0.016737        0.010155        0.010857        0.025864
+
+========================================
+Grid Size: 1000 x 1000
+========================================
+Obstacle Ratio: 20%
+Random Grids: 10
+Runs Per Grid: 10
+Target Mean Weight: 500
+
+High Weight Ratio: 5.000%
+W Mean: 500.000
+Dijkstra Time: 93.798 ms
+Dijkstra Time Std Dev: 57.741051 ms
+Dial Time: 73.187 ms
+Dial Time Std Dev: 44.104772 ms
+Empty Buckets Scanned: 1704.400
+Speed Ratio: 0.780
+Speed Ratio Std Dev: 0.029046
+
+High Weight Ratio: 10.000%
+W Mean: 500.000
+Dijkstra Time: 107.653 ms
+Dijkstra Time Std Dev: 60.939216 ms
+Dial Time: 82.878 ms
+Dial Time Std Dev: 46.430321 ms
+Empty Buckets Scanned: 2724.400
+Speed Ratio: 0.770
+Speed Ratio Std Dev: 0.027570
+
+High Weight Ratio: 25.000%
+W Mean: 500.000
+Dijkstra Time: 103.739 ms
+Dijkstra Time Std Dev: 68.983820 ms
+Dial Time: 80.995 ms
+Dial Time Std Dev: 52.777190 ms
+Empty Buckets Scanned: 3422.600
+Speed Ratio: 0.781
+Speed Ratio Std Dev: 0.037538
+
+High Weight Ratio: 50.000%
+W Mean: 500.000
+Dijkstra Time: 89.217 ms
+Dijkstra Time Std Dev: 50.742018 ms
+Dial Time: 75.941 ms
+Dial Time Std Dev: 42.283989 ms
+Empty Buckets Scanned: 139401.000
+Speed Ratio: 0.851
+Speed Ratio Std Dev: 0.018497
+
+High Weight Ratio: 75.000%
+W Mean: 500.000
+Dijkstra Time: 86.848 ms
+Dijkstra Time Std Dev: 48.902816 ms
+Dial Time: 75.964 ms
+Dial Time Std Dev: 42.055135 ms
+Empty Buckets Scanned: 244044.300
+Speed Ratio: 0.875
+Speed Ratio Std Dev: 0.016493
+
+High Weight Ratio: 100.000%
+W Mean: 500.000
+Dijkstra Time: 83.186 ms
+Dijkstra Time Std Dev: 47.504443 ms
+Dial Time: 71.670 ms
+Dial Time Std Dev: 40.362537 ms
+Empty Buckets Scanned: 346600.000
+Speed Ratio: 0.862
+Speed Ratio Std Dev: 0.024089
+
+SPEED RATIO COMPARISON
+Grid Size       5.000%  10.000% 25.000% 50.000% 75.000% 100.000%
+1000 x 1000     0.780   0.770   0.781   0.851   0.875   0.862
+SPEED RATIO STD DEV COMPARISON
+Grid Size       5.000%  10.000% 25.000% 50.000% 75.000% 100.000%
+1000 x 1000     0.029046        0.027570        0.037538        0.018497        0.016493        0.024089
+
+========================================
+FIXED MEAN DISTRIBUTION EXPERIMENT - UNREACHABLE GRID SUMMARY
+========================================
+Grid Size 5: 3 rejected
+Grid Size 25: 0 rejected
+Grid Size 100: 0 rejected
+Grid Size 250: 0 rejected
+Grid Size 500: 1 rejected
+Grid Size 750: 0 rejected
+Grid Size 1000: 0 rejected
+Total Unreachable Grids Rejected: 4
+
+
+########################################
+WEIGHT DISTRIBUTION - BUCKET SCANNING EXPERIMENT
+########################################
+Grid Size: 500 x 500
+Obstacle Ratio: 20%
+Target Wmean: 500
+Random Grids: 10
+Runs Per Grid: 10
+
+========================================
+WEIGHT DISTRIBUTION COMPARISON
+========================================
+Metric                      10%               50%               100%
+Wmean                       500.000           500.000           500.000
+Wmax                        4991.000          999.000           500.000
+
+Dijkstra Time (ms)          23.370            24.981            22.969
+Dijkstra Std Dev (ms)       9.320978          9.263229         8.830614
+Dial Time (ms)              18.885            21.261            20.997
+Dial Std Dev (ms)           7.378356          7.873021         7.816250
+
+Dijkstra Processed          115434.500        132502.200        130703.500
+Dial Processed              115406.700        132504.000        130780.500
+Dijkstra Relaxations        371127.100        424469.300        418578.400
+Dial Relaxations            371036.800        424473.300        418824.600
+
+Empty Buckets Scanned       488.100           95960.100         237550.000
+Shortest Path Cost          488.100           95960.100         237550.000
+Speed Ratio                 0.808             0.851             0.914
+Speed Ratio Std Dev         0.017413          0.008897          0.021844
+
+========================================
+BUCKET DISTRIBUTION EXPERIMENT - UNREACHABLE GRID SUMMARY
+========================================
+Shared Base Grids: 0 rejected
+Total Unreachable Grids Rejected: 0
